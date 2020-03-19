@@ -2,7 +2,7 @@ Analyze climate data collected by NASA using three popular Python libraries- Num
 
 Through this project-
 
-Create a notebook in Azure Notebooks
-Upload, manipulate, and visualize data in a notebook
-Share notebooks online
+1. Create a notebook in Azure Notebooks
+2. Upload, manipulate, and visualize data in a notebook
+3. Share notebooks online
 
